@@ -1,0 +1,14 @@
+.repo{
+  background-color:rgba(64, 66, 71, 0.3);;
+  border-radius:5px;
+  padding-inline-start: 10px;
+  margin-bottom:20px;
+}
+.repo>h4{
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+}
+.repo>p{
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+}

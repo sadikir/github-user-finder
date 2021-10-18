@@ -1,0 +1,28 @@
+.userWrapper{
+  border:1px solid rgba(64, 66, 71, 1);
+  display:inline-block;
+  margin:5px 5px 5px 5px;
+  border-radius:5px;
+}
+.userImg{
+  width:150px;
+}
+.userName{
+  text-align:center;
+}
+.moreInfo{
+  width:80%;
+  margin:auto;
+  background:rgba(64, 66, 71, 1);;
+  border-radius:10px;
+  cursor:pointer;
+  height:30px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  text-align:center;
+  margin-bottom:5px;
+  color:white;
+}
+.userLink{
+  text-decoration: none;
+}
